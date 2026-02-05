@@ -361,7 +361,7 @@ dependencies:
   - zstd=1.5.7=h6491c7d_2
   - pip:
       - streamlit
-            - et-xmlfile==2.0.0
+      - et-xmlfile==2.0.0
       - future==1.0.0
       - gevent==24.2.1
       - msgpack==0.6.2
