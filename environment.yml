@@ -13,4 +13,4 @@ dependencies:
   - pip
   - pip:
       - streamlit
-      - streamlit-autorefresh
+      - streamlit_autorefresh
