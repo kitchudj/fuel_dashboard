@@ -13,8 +13,4 @@ dependencies:
   - pip
   - pip:
       - streamlit
-<<<<<<< HEAD
       - streamlit_autorefresh
-=======
-      - streamlit-autorefresh
->>>>>>> 151deb6 (Update environment.yml)
