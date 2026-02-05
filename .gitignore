@@ -1,0 +1,25 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Virtual Environment ----
+.venv/
+env/
+venv/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+.cache/
+cache_data/
+
+# ---- IDE ----
+.vscode/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
